@@ -32,7 +32,7 @@
 	        android:layout_height="wrap_content"
             android:selectable="false">
         <ImageView
-            android:src="@drawable/derp_about"
+            android:src="@drawable/redstone_about"
             android:layout_width="match_parent"
  	        android:layout_height="match_parent"
             android:adjustViewBounds="true"
@@ -57,10 +57,10 @@
             android:id="@+id/aosip_version_label"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/aosip_version"/>
+            android:text="@string/redstone_version"/>
         <TextView
             style="@style/device_info_dialog_value"
-            android:id="@+id/aosip_version"
+            android:id="@+id/redstone_version"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
 
